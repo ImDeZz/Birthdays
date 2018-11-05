@@ -3,3 +3,4 @@ Gergõ 3
 Margit 4
 Donald Duck 5
 Ronald 4
+Herald 2
